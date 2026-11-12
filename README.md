@@ -2,6 +2,8 @@
 
 为 Board Game Arena（BGA）的原版回放增加底部快捷栏，保留原版棋盘和玩家视角。已在 Chrome 的《方舟动物园》三人局验证回放页和预览流程。
 
+**English** — BGA Replay Toolbar adds keyboard shortcuts and a toolbar to Board Game Arena replays while keeping the original board and player perspective. Step backward or forward, play until the next player starts their turn, or preview public actions in Chinese before jumping to a specific step. Tested in Chrome with a three-player Ark Nova replay.
+
 | 按键 | 操作 |
 | --- | --- |
 | ← 或数字小键盘 4 | 上一步 |
